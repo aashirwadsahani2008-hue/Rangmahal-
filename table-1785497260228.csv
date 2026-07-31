@@ -1,4 +1,0 @@
-﻿File,Purpose
-**[Updated index.html](sandbox:///mnt/agents/output/buildtrack_pro.html)**,PWA support added
-**[manifest.json](sandbox:///mnt/agents/output/manifest.json)**,"App ka naam, icon, theme"
-**[sw.js](sandbox:///mnt/agents/output/sw.js)**,Offline mode + app install
